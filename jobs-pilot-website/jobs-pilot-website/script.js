@@ -7,12 +7,12 @@
 
 const jobs = [
   {
-    company: "Amazon",
-    initials: "A",
-    role: "Customer Service Associate",
-    location: "Noida, India",
-    category: "Customer Service",
-    url: "https://www.amazon.jobs/",
+    company: "HackerRank",
+    initials: "HR",
+    role: "Intern — Off-Campus Hiring Drive",
+    location: "Bengaluru, India",
+    category: "Internships",
+    url: "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
   },
   {
     company: "Tata Consultancy Services",
