@@ -33,9 +33,10 @@ jobs-pilot-website/
 
 https://jobs-pilot.vercel.app
 
-
 ## 👨‍💻 Author
 
 Jobs Pilot — IT Career Updates & Opportunities
-
 Follow Jobs Pilot for job alerts, fresher opportunities, internships, and IT career guidance.
+
+**Contact Email:** [gidigikishore@gmail.com](mailto:gidigikishore@gmail.com)
+
