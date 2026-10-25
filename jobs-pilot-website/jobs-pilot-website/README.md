@@ -1,30 +1,50 @@
-# Jobs Pilot website
+# 🚀 Jobs Pilot — IT Careers & Opportunities
 
-A responsive static job-board website built with HTML, CSS, and JavaScript.
+Jobs Pilot is a responsive job listing website designed to help job seekers explore IT career opportunities, fresher jobs, internships, and customer service roles in India.
 
-## Preview locally
-Open `index.html` in a browser.
+## ✨ Features
 
-## Update job listings
-Edit the `jobs` array at the top of `script.js`. Each job has:
-- `company`
-- `initials`
-- `role`
-- `location`
-- `category`
-- `url` (prefer the employer's official careers or application page)
+- 🔎 Search jobs by role, company, category, or location
+- 📍 Filter job listings by location
+- 💼 Browse different job categories
+- 📱 Responsive design for desktop and mobile
+- 🔗 Quick links to company career pages
+- 🎨 Modern, user-friendly interface
 
-The included listings are illustrative examples and are not verified live vacancies. Update them before publishing.
+## 🛠️ Technologies Used
 
-## Publish on Vercel
-1. Sign in to https://vercel.com/
-2. Create a GitHub repository and upload `index.html`, `style.css`, and `script.js`, or install Git and push this folder to GitHub.
-3. In Vercel, choose **Add New → Project**, import the repository.
-4. For this static site, leave the framework preset as **Other** (or choose no framework); no build command is needed.
-5. Set the output directory to `.` if prompted, then click **Deploy**.
-6. After deployment, copy the generated `https://....vercel.app` address.
-7. Instagram → Profile → Edit profile → Links → Add external link → paste the Vercel address → Save.
+- HTML5
+- CSS3
+- JavaScript
+- GitHub
+- Vercel
 
-## Important
-- This is a static website. The job listings are edited in `script.js`; it does not yet have an admin dashboard or database.
-- Verify every vacancy and deadline, and use official application links. Do not imply sample entries are confirmed openings.
+## 📂 Project Structure
+
+```text
+jobs-pilot-website/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 🌐 Live Website
+
+https://jobs-pilot.vercel.app
+
+## 🚀 Run Locally
+
+1. Clone this repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+## 📌 Important Notice
+
+The initial job listings are example entries and are not verified live vacancies. Always check the official company careers website for current openings and application requirements.
+
+## 👨‍💻 Author
+
+Jobs Pilot — IT Career Updates & Opportunities
+
+Follow Jobs Pilot for job alerts, fresher opportunities, internships, and IT career guidance.
