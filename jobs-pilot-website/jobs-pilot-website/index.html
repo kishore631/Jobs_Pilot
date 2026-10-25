@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Find fresher jobs, IT careers, internships and work-from-home opportunities with Jobs Pilot."
+    />
+    <meta name="theme-color" content="#101827" />
+    <title>Jobs Pilot | IT Careers & Opportunities</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./style.css" />
+    <script src="./script.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="Jobs Pilot homepage">
+        <span class="brand-mark">JP</span>
+        <span class="brand-name"
+          >JOBS<span class="brand-accent">PILOT</span>
+          <small>IT CAREERS & OPPORTUNITIES</small>
+        </span>
+      </a>
+      <a class="header-link" href="#jobs">Explore jobs <span>↗</span></a>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-glow"></div>
+        <div class="hero-content">
+          <span class="eyebrow"
+            ><span class="live-dot"></span> YOUR NEXT OPPORTUNITY STARTS
+            HERE</span
+          >
+          <h1>Find your next<br /><span>career move.</span></h1>
+          <p>
+            Freshers jobs, IT opportunities and internships — all in one place
+            to help you take the next step.
+          </p>
+          <a class="hero-button" href="#jobs"
+            >Browse latest jobs <span>↓</span></a
+          >
+
+          <div class="hero-stats">
+            <div>
+              <strong id="jobCount">0</strong><span>Listed opportunities</span>
+            </div>
+            <div><strong>01</strong><span>Goal: your next role</span></div>
+          </div>
+        </div>
+
+        <div class="hero-art" aria-hidden="true">
+          <div class="orbit orbit-one"></div>
+          <div class="orbit orbit-two"></div>
+          <div class="orbit-core">JP<span>↗</span></div>
+          <div class="float-card float-top">
+            <span class="float-icon">✦</span>
+            <div><b>New opportunities</b><small>One click closer</small></div>
+          </div>
+          <div class="float-card float-bottom">
+            <span class="check-icon">✓</span>
+            <div>
+              <b>Make your move</b><small>Your career, your journey</small>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="jobs-section" id="jobs">
+        <div class="section-heading">
+          <div>
+            <span class="section-kicker">THE OPPORTUNITY BOARD</span>
+            <h2>Latest job openings<span class="heading-period">.</span></h2>
+            <p>
+              Find opportunities and apply through the employer's career page.
+            </p>
+          </div>
+          <span class="updated-pill"
+            ><span class="live-dot"></span> Job board</span
+          >
+        </div>
+
+        <div class="toolbar">
+          <label class="search-box">
+            <span aria-hidden="true">⌕</span>
+            <input
+              id="searchInput"
+              type="search"
+              placeholder="Search jobs or companies..."
+              aria-label="Search jobs"
+            />
+          </label>
+
+          <select id="categoryFilter" aria-label="Filter by job category">
+            <option value="all">All categories</option>
+            <option value="IT Jobs">IT Jobs</option>
+            <option value="Freshers">Freshers</option>
+            <option value="Customer Service">Customer Service</option>
+            <option value="Internships">Internships</option>
+            <option value="Work From Home">Work From Home</option>
+          </select>
+
+          <select id="locationFilter" aria-label="Filter by location">
+            <option value="all">All locations</option>
+          </select>
+        </div>
+
+        <div class="table-wrap">
+          <div class="table-head">
+            <span>COMPANY / ROLE</span>
+            <span>CATEGORY</span>
+            <span>LOCATION</span>
+            <span>APPLICATION</span>
+          </div>
+
+          <div id="jobList" class="job-list" aria-live="polite"></div>
+
+          <div id="emptyState" class="empty-state" hidden>
+            <span>⌕</span>
+            <h3>No matching jobs</h3>
+            <p>Try another keyword or clear your filters.</p>
+            <button id="clearFilters" class="text-button" type="button">
+              Clear filters
+            </button>
+          </div>
+        </div>
+
+        <p class="disclaimer">
+          Job listings are provided for informational purposes. Verify
+          vacancies, eligibility and deadlines on the employer's official
+          website before applying.
+        </p>
+      </section>
+
+      <section class="cta-strip">
+        <div class="cta-icon">↗</div>
+        <div>
+          <h3>Ready for your next opportunity?</h3>
+          <p>Bookmark this page and check back for more job listings.</p>
+        </div>
+        <a href="#jobs">Explore jobs <span>→</span></a>
+      </section>
+    </main>
+
+    <footer>
+      <a class="footer-brand" href="#"
+        ><span class="brand-mark">JP</span> JOBS PILOT</a
+      >
+      <span>Helping you navigate your next career move.</span>
+      <a href="#">Back to top ↑</a>
+    </footer>
+  </body>
+</html>
