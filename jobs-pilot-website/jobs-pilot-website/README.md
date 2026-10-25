@@ -33,18 +33,10 @@ jobs-pilot-website/
 
 https://jobs-pilot.vercel.app
 
-## 🚀 Run Locally
-
-1. Clone this repository.
-2. Open the project folder.
-3. Open `index.html` in your browser.
-
-## 📌 Important Notice
-
-The initial job listings are example entries and are not verified live vacancies. Always check the official company careers website for current openings and application requirements.
-
 ## 👨‍💻 Author
 
 Jobs Pilot — IT Career Updates & Opportunities
-
 Follow Jobs Pilot for job alerts, fresher opportunities, internships, and IT career guidance.
+
+**Contact Email:** [gidigikishore@gmail.com](mailto:gidigikishore@gmail.com)
+
