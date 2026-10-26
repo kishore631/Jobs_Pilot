@@ -32,7 +32,7 @@ const jobs = [
   batch: "Check official listing",
   url: "https://search.jobs.barclays/job/-/-/13015/99013663152?src=JB-12860",
   summary: "Barclays is hiring Software Engineer I for a full-stack development role in Pune. Candidates with any bachelor's or master's degree and 0–2 years of experience may be eligible. Check the official listing for current eligibility and application details."
-}
+},
   {
     company: "Deloitte",
     initials: "DTT",
