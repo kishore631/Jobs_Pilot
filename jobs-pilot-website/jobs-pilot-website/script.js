@@ -8,6 +8,32 @@
 
 const jobs = [
   {
+  company: "Wipro",
+  initials: "WIP",
+  role: "Graduate Engineer Trainee",
+  category: "Full-time",
+  location: "Gurugram",
+  degree: "B.Tech / BE (CS, IT, ECE) / MCA",
+  experience: "Freshers",
+  salary: "₹3.5–4.5 LPA",
+  batch: "2023/2024/2025/2026",
+  url: "https://careers.wipro.com/job/Gurugram-Graduate-Engineer-Trainee-IND-122016/212634-en_US/",
+  summary: "Wipro is hiring Graduate Engineer Trainees for the 2023, 2024, 2025, and 2026 batches. Eligible candidates include B.Tech/BE graduates in Computer Science, IT, and ECE, as well as MCA graduates. Check the official listing for current eligibility and application details."
+},
+{
+  company: "Barclays",
+  initials: "BAR",
+  role: "Software Engineer - I (Full Stack Engineer)",
+  category: "Full-time",
+  location: "Pune, India",
+  degree: "Any Bachelor's / Master's Degree",
+  experience: "Freshers / 0–2 Years",
+  salary: "₹6–9 LPA",
+  batch: "Check official listing",
+  url: "https://search.jobs.barclays/job/-/-/13015/99013663152?src=JB-12860",
+  summary: "Barclays is hiring Software Engineer I for a full-stack development role in Pune. Candidates with any bachelor's or master's degree and 0–2 years of experience may be eligible. Check the official listing for current eligibility and application details."
+}
+  {
     company: "Deloitte",
     initials: "DTT",
     role: "Analyst",
