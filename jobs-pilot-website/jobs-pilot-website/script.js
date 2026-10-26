@@ -8,6 +8,20 @@
 
 const jobs = [
   {
+    company: "Deloitte",
+    initials: "DTT",
+    role: "Analyst",
+    category: "Full-time",
+    location: "Pune, Bengaluru",
+    degree: "Any Graduate",
+    experience: "Freshers / 0–2 Years",
+    salary: "₹5.5–8.5 LPA",
+    batch: "Check official listing",
+    url: "https://southasiacareers.deloitte.com/job/Pune-Analyst-S&P-Procurement-Theme-Supply-Chain-&-Network-Operations/599408044/",
+    summary:
+      "Explore the Analyst opportunity at Deloitte in Pune or Bengaluru. Open to any graduate, including freshers with 0–2 years of experience. Check the official listing for current eligibility and availability.",
+},
+  {
     company: "HCLTech",
     initials: "HCL",
     role: "Analyst - Gen AI Intern",
