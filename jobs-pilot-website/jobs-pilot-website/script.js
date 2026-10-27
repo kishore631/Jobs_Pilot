@@ -13,7 +13,7 @@ const jobs = [
   role: "Internship & Full-Time Opportunities",
   category: "Internship / Full-time",
   location: "Check Official Listing",
-  degree: "College Students",
+  degree: "B.Tech / BE (CS, IT, ECE) / MCA",
   experience: "Freshers",
   salary: "Up to ₹10–20 LPA",
   batch: "2027/2028/2029/2030",
