@@ -8,6 +8,19 @@
 
 const jobs = [
   {
+  company: "Levi Strauss & Co.",
+  initials: "LSC",
+  role: "Tech Support Specialist",
+  category: "Full-time",
+  location: "Bengaluru, Karnataka",
+  degree: "Bachelor's Degree in a Technology Field or Equivalent Experience",
+  experience: "4+ Years",
+  salary: "Not Disclosed",
+  batch: "4+ Years Experience",
+  url: "https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/GCC-Office--ITC-Green-Center-Bengaluru-Karnataka-India/Tech-Support-Specialist_R-0157639",
+  summary: "Levi Strauss & Co. is hiring a Tech Support Specialist for its GCC Office at ITC Green Center in Bengaluru, Karnataka. Candidates should have 4+ years of experience in IT support, technical support, command center operations, or monitoring. Responsibilities include system monitoring, incident triage, troubleshooting, ticket management, escalation, and operational documentation. Knowledge of ITIL Incident Management and ticketing platforms is beneficial. Apply by 28 October 2026."
+},
+  {
   company: "Wipro",
   initials: "WIP",
   role: "Graduate Engineer Trainee",
