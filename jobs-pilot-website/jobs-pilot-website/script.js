@@ -8,6 +8,19 @@
 
 const jobs = [
   {
+  company: "Eurogrip",
+  initials: "ET",
+  role: "Internship & Full-Time Opportunities",
+  category: "Internship / Full-time",
+  location: "Check Official Listing",
+  degree: "College Students",
+  experience: "Freshers",
+  salary: "Up to ₹10–20 LPA",
+  batch: "2027/2028/2029/2030",
+  url: "https://tinyurl.com/yprmftua",
+  summary: "Eurogrip is advertising internship and full-time job opportunities for college students from the 2027, 2028, 2029, and 2030 batches. The advertised salary is up to ₹10–20 LPA, depending on the role. The stated application deadline is 27 October 2026, and applications may close early. Check the official listing for available roles, eligibility criteria, salary details, and application status."
+},
+  {
   company: "Infosys",
   initials: "INF",
   role: "Digital Specialist Engineer (DSE)",
