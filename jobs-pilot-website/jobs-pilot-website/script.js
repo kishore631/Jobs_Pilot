@@ -8,6 +8,19 @@
 
 const jobs = [
   {
+  company: "Infosys",
+  initials: "INF",
+  role: "Digital Specialist Engineer (DSE)",
+  category: "Full-time",
+  location: "Hyderabad, Bengaluru, Delhi NCR",
+  degree: "Check Official Listing",
+  experience: "0–2 Years",
+  salary: "₹7 LPA",
+  batch: "2024–2027",
+  url: "https://www.naukri.com/job-listings-digital-specialist-engineer-trainee-infosys-hyderabad-bengaluru-delhi-ncr-0-to-2-years-151026022319",
+  summary: "Infosys is hiring Digital Specialist Engineers (DSE) with a reported package of ₹7 LPA. Candidates from the 2024–2027 batches may be eligible, with 0–2 years of experience. Locations include Hyderabad, Bengaluru, and Delhi NCR. Check the job listing for exact educational qualifications, eligibility criteria, and current application availability."
+},
+  {
   company: "Levi Strauss & Co.",
   initials: "LSC",
   role: "Tech Support Specialist",
