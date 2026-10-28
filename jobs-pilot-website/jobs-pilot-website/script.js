@@ -8,6 +8,32 @@
 
 const jobs = [
   {
+  company: "KPMG",
+  initials: "KPMG",
+  role: "Analyst",
+  category: "Full-time",
+  location: "Gurgaon, India",
+  degree: "BA, B.Com, B.Ed, BE & BCA",
+  experience: "0–2 Years",
+  salary: "Not Disclosed",
+  batch: "2024/2025/2026/2027",
+  url: "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30050866/",
+  summary: "KPMG is advertising an Analyst opportunity for eligible graduates from BA, B.Com, B.Ed, BE, and BCA backgrounds. Candidates with 0–2 years of experience may be eligible. The role is listed as full-time in Gurgaon, India, with work timings from 11:30 AM to 8:00 PM. The salary package has not been disclosed. Check the official careers listing for exact eligibility requirements and current application availability."
+},
+{
+  company: "Cognizant",
+  initials: "COG",
+  role: "Data Analyst",
+  category: "Full-time",
+  location: "Chennai, India (Hybrid, Day Shift)",
+  degree: "CS / IT / Data Science Graduates",
+  experience: "Freshers (Verify Official Listing)",
+  salary: "₹4–10 LPA Reported",
+  batch: "2024/2025/2026/2027",
+  url: "https://careers.cognizant.com/global-en/jobs/00070260513/data-analyst/",
+  summary: "Cognizant is advertising a Data Analyst opportunity in Chennai with a hybrid work arrangement and day-shift timings. Candidates with Computer Science, Information Technology, or Data Science backgrounds may be suitable, subject to the official eligibility criteria. The salary is not disclosed, although ₹4–10 LPA has been reported elsewhere. Verify the required experience, eligible batches, compensation, and current vacancy status on the official Cognizant careers page."
+},
+  {
   company: "Infosys",
   initials: "INF",
   role: "Specialist Programmer Trainee",
