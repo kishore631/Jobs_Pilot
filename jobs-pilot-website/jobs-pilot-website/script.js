@@ -8,6 +8,58 @@
 
 const jobs = [
   {
+  company: "Infosys",
+  initials: "INF",
+  role: "Specialist Programmer Trainee",
+  category: "Full-time",
+  location: "Hyderabad, Bengaluru, Delhi NCR",
+  degree: "Graduates (Check Official Listing)",
+  experience: "0–2 Years",
+  salary: "Up to ₹21 LPA (Reported; Verify)",
+  batch: "2024/2025/2026/2027",
+  url: "https://www.naukri.com/job-listings-specialist-programmer-trainee-infosys-hyderabad-bengaluru-delhi-ncr-0-to-2-years-151026016759",
+  summary: "Infosys is advertising a Specialist Programmer Trainee opportunity for eligible graduates. The advertised compensation may vary by role and level, with packages reported up to ₹21 LPA across the hiring roles. Candidates with 0–2 years of experience may be eligible. Check the job listing for exact qualifications, eligible batches, compensation, and current application availability."
+},
+  {
+  company: "Infosys",
+  initials: "INF",
+  role: "Systems Engineer",
+  category: "Full-time",
+  location: "Multiple locations across India",
+  degree: "Graduates (Check Official Listing)",
+  experience: "Freshers",
+  salary: "₹4 LPA (Reported; Verify)",
+  batch: "2024/2025/2026/2027",
+  url: "https://surveys.infosysapps.com/r/a/SEcampusregistration2027batch",
+  summary: "Infosys is inviting applications for the Systems Engineer role through its campus registration process. Candidates from eligible graduating batches may apply, subject to the official eligibility criteria. The reported package is ₹4 LPA. Check the registration page for eligible degrees, batch requirements, application deadlines, and current availability."
+},
+  {
+  company: "Larsen & Toubro (L&T)",
+  initials: "L&T",
+  role: "GenAI Trainee",
+  category: "Full-time",
+  location: "Across India",
+  degree: "BE / ME / BTech / MTech",
+  experience: "0–2 Years",
+  salary: "Not Disclosed",
+  batch: "2024/2025/2026/2027",
+  url: "https://larsentoubrocareers.peoplestrong.com/job/detail/LNT_GT_1820286?Source=Linkedin",
+  summary: "Larsen & Toubro is hiring GenAI Trainees for opportunities across India. Eligible candidates may include BE, ME, BTech, and MTech graduates from the 2024, 2025, 2026, and 2027 batches, with 0–2 years of experience. Salary is not disclosed. Check the official careers listing for exact eligibility criteria and current application availability."
+},
+  {
+  company: "HCLTech",
+  initials: "HCL",
+  role: "Analyst – Gen AI Intern",
+  category: "Internship",
+  location: "Noida, Hyderabad, Chennai, Bengaluru, Pune",
+  degree: "Any Bachelor's / Master's Degree",
+  experience: "Freshers / 0–3 Years",
+  salary: "₹4–8 LPA (Reported)",
+  batch: "Check Official Listing",
+  url: "https://careers.hcltech.com/job/Analyst-%28Support-%26-Operations%29/166721-en_US/",
+  summary: "HCLTech is advertising an Analyst – Gen AI Intern opportunity for candidates with a bachelor's or master's degree. Freshers and candidates with 0–3 years of experience may be eligible. The reported package is ₹4–8 LPA. Locations include Noida, Hyderabad, Chennai, Bengaluru, and Pune. Verify the exact job title, compensation, eligibility, and current vacancy status on the official careers portal."
+},
+  {
   company: "Eurogrip",
   initials: "ET",
   role: "Internship & Full-Time Opportunities",
