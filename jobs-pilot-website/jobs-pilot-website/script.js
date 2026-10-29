@@ -8,6 +8,19 @@
 
 const jobs = [
   {
+  company: "Wipro",
+  initials: "WIP",
+  role: "Associate – Mapping (Non-Voice)",
+  category: "Permanent Remote",
+  location: "Hyderabad Interview → Remote",
+  degree: "Any Graduate",
+  experience: "Freshers",
+  salary: "Not Disclosed",
+  batch: "2021/2022/2023/2024/2025/2026",
+  url: "https://www.naukri.com/job-listings-wipro-permanent-work-from-home-opportunity-for-freshers-27-30th-oct-wipro-hyderabad-0-to-0-years-261026017788",
+  summary: "Wipro is advertising an Associate – Mapping (Non-Voice) opportunity for freshers with any graduate qualification, including pass-outs from 2021 to 2026. The role is listed as permanently remote, with an interview walk-in in Hyderabad scheduled for 28–30 October 2026, from 9:30 AM to 12:00 PM. The salary package has not been disclosed. Check the job listing for exact eligibility, interview details, and current application availability before attending."
+},
+  {
   company: "KPMG",
   initials: "KPMG",
   role: "Analyst",
