@@ -8,6 +8,19 @@
 
 const jobs = [
   {
+    company: "Amazon",
+    initials: "AMZ",
+    role: "Software Development Engineer I",
+    category: "Full-time",
+    location: "India",
+    degree: "Bachelor's Degree",
+    experience: "Freshers",
+    salary: "₹22–30 LPA",
+    batch: "2025/2026",
+    url: "https://www.amazon.jobs/en/jobs/10454438/software-dev-engineer-i-amazon-university-talent-acquisition",
+    summary: "Amazon is hiring freshers for the Software Development Engineer I position. Candidates with a Bachelor's degree from the 2025 and 2026 batches may be eligible. The advertised salary range is ₹22–30 LPA. Check the official Amazon careers page for exact eligibility, job location, and current application status before applying."
+  },
+  {
   company: "EY",
   initials: "EY",
   role: "Associate Analyst",
