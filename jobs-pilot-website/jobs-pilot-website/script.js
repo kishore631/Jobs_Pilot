@@ -8,6 +8,59 @@
 
 const jobs = [
   {
+  company: "EY",
+  initials: "EY",
+  role: "Associate Analyst",
+  category: "Full-time",
+  location: "Across India",
+  degree: "Bachelor's / Master's Degree",
+  experience: "Freshers",
+  salary: "₹4.0–6.5 LPA",
+  batch: "2024/2025/2026/2027",
+  url: "https://eyglobal.yello.co/jobs/yZimmWg4kDLz6r3kMgWfVw?job_board_id=c1riT--B2O-KySgYWsZ01Q",
+  summary: "EY is hiring freshers for the Associate Analyst position across India. Candidates with a Bachelor's or Master's degree may be eligible. The reported salary range is ₹4.0–6.5 LPA. Check the official application page for eligible qualifications, batch requirements, job responsibilities, and current vacancy availability."
+},
+{
+  company: "Volvo",
+  initials: "VOL",
+  role: "Graduate Apprentice Trainee",
+  category: "Apprenticeship",
+  location: "Bengaluru, India",
+  degree: "Bachelor's Degree",
+  experience: "Freshers",
+  salary: "Not Disclosed",
+  batch: "2025/2026/2027",
+  url: "https://jobs.volvogroup.com/job/Bangalore-Graduate-Apprentice-Trainee-Recruiter-562122/1374672255/?feedId=361555",
+  summary: "Volvo is advertising a Graduate Apprentice Trainee opportunity in Bengaluru. Candidates with a Bachelor's degree and freshers may be eligible. The salary or stipend has not been disclosed in the shared job details. Check the official Volvo careers page for the exact educational requirements, apprenticeship duration, and application availability."
+},
+{
+  company: "Rubrik",
+  initials: "RUB",
+  role: "Software Engineer - Cloud: Azure",
+  category: "Full-time",
+  location: "Bengaluru, India",
+  degree: "Bachelor's / Master's Degree",
+  experience: "Freshers / 0–2 Years",
+  salary: "Not Disclosed",
+  batch: "Check Official Listing",
+  url: "https://www.rubrik.com/company/careers/departments/job.8258200",
+  summary: "Rubrik is advertising a Software Engineer opportunity focused on Cloud and Azure in Bengaluru. Candidates with a Bachelor's or Master's degree and freshers or applicants with 0–2 years of experience may be eligible. The salary package has not been disclosed. Check the official Rubrik careers page for exact qualifications, technical requirements, and current application availability."
+},
+{
+  company: "Elements Energy",
+  initials: "EE",
+  role: "Associate Software Developer",
+  category: "Full-time",
+  location: "Pune, Delhi NCR, Chennai, Hyderabad & Bengaluru",
+  degree: "Any Graduate",
+  experience: "Freshers",
+  salary: "Up to ₹10 LPA",
+  batch: "2024/2025/2026",
+  lastDate: "31 October 2026",
+  url: "https://go.acciojob.com/HVncnf",
+  summary: "Elements Energy is hiring freshers for the Associate Software Developer position across Pune, Delhi NCR, Chennai, Hyderabad, and Bengaluru. Candidates with any graduate qualification may be eligible. The reported salary is up to ₹10 LPA. The application deadline is 31 October 2026. Check the official application page for eligibility requirements, selection process, and current vacancy availability."
+},
+  {
   company: "Wipro",
   initials: "WIP",
   role: "Associate – Mapping (Non-Voice)",
