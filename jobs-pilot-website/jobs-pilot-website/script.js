@@ -8,6 +8,75 @@
 
 const jobs = [
   {
+    company: "Accenture",
+    initials: "ACC",
+    role: "Record to Report Ops Associate",
+    category: "Full-time",
+    location: "Mumbai, India",
+    degree: "Any Degree",
+    experience: "Freshers / 0–2 Years",
+    salary: "Up to ₹6 LPA",
+    batch: "Freshers",
+    url: "https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01661110_en",
+    summary: "Accenture is hiring freshers and candidates with 0–2 years of experience for the Record to Report Ops Associate position in Mumbai. Candidates with any degree may be eligible. The advertised salary is up to ₹6 LPA."
+},
+
+{
+    company: "Morningstar",
+    initials: "MOR",
+    role: "Associate Business Analyst",
+    category: "Full-time",
+    location: "Mumbai, India",
+    degree: "Any Bachelor's / Master's Degree",
+    experience: "Freshers & Experienced",
+    salary: "₹6–8 LPA",
+    batch: "Freshers / Experienced",
+    url: "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Mumbai/Associate-Business-Intelligence-Analyst_REQ-058861-1",
+    summary: "Morningstar is hiring candidates for the Associate Business Analyst position in Mumbai. Candidates with any Bachelor's or Master's degree may be eligible. Both freshers and experienced candidates can explore this opportunity. The advertised salary range is ₹6–8 LPA."
+},
+
+{
+    company: "Siemens",
+    initials: "SIE",
+    role: "Software Developer – Train IT",
+    category: "Full-time",
+    location: "Pune, India",
+    degree: "Any Bachelor's Degree",
+    experience: "Freshers",
+    salary: "₹3–12 LPA",
+    batch: "2022–2026",
+    url: "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527044",
+    summary: "Siemens is hiring freshers for the Software Developer – Train IT position in Pune. Candidates with any Bachelor's degree from the 2022–2026 batches may be eligible. The advertised salary range is ₹3–12 LPA."
+},
+
+{
+    company: "EY",
+    initials: "EY",
+    role: "Associate Analyst",
+    category: "Full-time",
+    location: "Across India",
+    degree: "Bachelor's / Master's Degree",
+    experience: "Freshers",
+    salary: "₹4–6.5 LPA",
+    batch: "Freshers",
+    url: "https://eyglobal.yello.co/jobs/yZimmWg4kDLz6r3kMgjWfWw?job_board_id=c1riT--B20-KySaYWsZ01Q",
+    summary: "EY is hiring freshers for the Associate Analyst position across India. Candidates with a Bachelor's or Master's degree may be eligible. The advertised salary range is ₹4–6.5 LPA."
+},
+
+{
+    company: "PwC",
+    initials: "PwC",
+    role: "AI Engineer Intern",
+    category: "Internship",
+    location: "Check Official Job Listing",
+    degree: "Bachelor's Degree",
+    experience: "Freshers",
+    salary: "₹30,000–40,000/Month",
+    batch: "Freshers",
+    url: "https://jobs-ta.pwc.com/global/en/job/763405WD/Business-AI-Engineer-Intern-2027",
+    summary: "PwC is hiring freshers for the AI Engineer Intern position. Candidates with a Bachelor's degree may be eligible. The advertised monthly stipend is ₹30,000–40,000. Check the official PwC careers portal for the exact job location and internship eligibility."
+},
+  {
     company: "IBM",
     initials: "IBM",
     role: "Software Engineer",
