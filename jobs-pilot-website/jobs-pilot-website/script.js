@@ -8,6 +8,32 @@
 
 const jobs = [
   {
+    company: "Deloitte",
+    initials: "DTT",
+    role: "KX Document Content Publishing Analyst",
+    category: "Full-time",
+    location: "Hyderabad, Bengaluru",
+    degree: "Not Specified",
+    experience: "Freshers",
+    salary: "Not Disclosed",
+    batch: "Not Specified",
+    url: "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Knowledge-Services-KX-Document-Content-Publishing-Analyst-Hyderabad-Bengaluru/351965",
+    summary: "Deloitte is hiring KX Document Content Publishing Analysts for its Hyderabad and Bengaluru locations. Freshers are eligible to apply. This opportunity offers candidates a chance to begin their careers with Deloitte in Knowledge Services. Interested candidates can apply through the official Deloitte careers portal."
+},
+  {
+    company: "Accenture",
+    initials: "ACC",
+    role: "Record to Report Ops – New Associate",
+    category: "Full-time",
+    location: "Mumbai",
+    degree: "Any Degree",
+    experience: "0–2 Years",
+    salary: "Up to ₹6 LPA",
+    batch: "Any Batch",
+    url: "https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01661110_en",
+    summary: "Accenture is hiring Record to Report Ops New Associates in Mumbai. Candidates from any degree background with 0–2 years of experience, including freshers, may be eligible. The advertised salary is up to ₹6 LPA. Interested candidates can apply through the official Accenture careers portal."
+},
+  {
   company: "KPIT Technologies",
   initials: "KPIT",
   role: "Associate Engineer",
