@@ -8,6 +8,33 @@
 
 const jobs = [
   {
+  company: "KPIT Technologies",
+  initials: "KPIT",
+  role: "Associate Engineer",
+  category: "Full-time",
+  location: "Pune / Bengaluru (Expected)",
+  degree: "Engineering Graduates (Check Official Criteria)",
+  experience: "Freshers",
+  salary: "Not Disclosed",
+  batch: "2027",
+  lastDate: "18 October 2026, 8:00 PM",
+  url: "https://app.joinsuperset.com/join/#/signup/student?jp=451f5fb6-c3eb-4cee-9828-6f285fe9a131",
+  summary: "KPIT Technologies is advertising an Associate Engineer opportunity for the 2027 batch. Freshers may be eligible to apply. Pune and Bengaluru are mentioned as expected locations, while the salary has not been officially disclosed. The shared notice lists 18 October 2026 at 8:00 PM as the application deadline. Check the official application portal for eligibility criteria and current vacancy availability."
+},
+{
+  company: "Revature",
+  initials: "REV",
+  role: "Junior Trainer",
+  category: "Full-time",
+  location: "Chennai, India",
+  degree: "Check Official Listing",
+  experience: "Check Official Listing",
+  salary: "Not Disclosed",
+  batch: "2025/2026/2027",
+  url: "https://www.revature.com/revature-junior-trainer-candidature-confirmation-form?utm_source",
+  summary: "Revature is inviting applications for its Junior Trainer opportunity in Chennai. The shared announcement mentions candidates from the 2025, 2026, and 2027 batches. Salary, experience requirements, and detailed educational qualifications have not been provided in the shared notice. Complete the candidature confirmation form and verify the official eligibility criteria before applying."
+},
+  {
     company: "Citi",
     initials: "CITI",
     role: "KYC Operations Analyst",
