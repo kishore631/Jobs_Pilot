@@ -8,6 +8,47 @@
 
 const jobs = [
   {
+    company: "Capgemini",
+    initials: "CAP",
+    role: "Software Engineer",
+    category: "Full-time",
+    location: "Bengaluru, Hyderabad, Pune",
+    degree: "Any UG Graduate / Any PG Postgraduate",
+    experience: "Freshers",
+    salary: "5 LPA",
+    batch: "Not Specified",
+    url: "https://careers.capgemini.com/job/Hyderabad-Software-Engineer/1451260733/",
+    summary: "Capgemini is hiring Software Engineers for its Bengaluru, Hyderabad, and Pune locations. Any undergraduate or postgraduate candidate is eligible to apply. Freshers can apply for this opportunity."
+},
+
+{
+    company: "Wipro",
+    initials: "WIP",
+    role: "Associate Analyst",
+    category: "Full-time",
+    location: "Not Specified",
+    degree: "Graduates with Good English Communication Skills",
+    experience: "Entry Level / Freshers",
+    salary: "4 LPA",
+    batch: "Not Specified",
+    url: "https://careers.wipro.com/job/Associate-Analyst/212154-en_US/",
+    summary: "Wipro is hiring Associate Analysts for entry-level positions. Graduates with good English communication skills are eligible to apply. This is an opportunity for freshers to begin their careers with Wipro."
+},
+
+{
+    company: "Cisco",
+    initials: "CIS",
+    role: "Software Engineer",
+    category: "Full-time",
+    location: "Bengaluru",
+    degree: "Not Specified",
+    experience: "Freshers",
+    salary: "Not Disclosed",
+    batch: "Not Specified",
+    url: "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015025EXTERNALENGLLOBAL/Software-Engineer",
+    summary: "Cisco is hiring Software Engineers for its Bengaluru location. Freshers are eligible to apply for this opportunity. Candidates can explore this opportunity to begin their software engineering careers at Cisco."
+},
+  {
     company: "Deloitte",
     initials: "DTT",
     role: "KX Document Content Publishing Analyst",
