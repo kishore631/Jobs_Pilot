@@ -7,7 +7,6 @@
  */
 
 const jobs = [
-  [
     {
         company: "Wipro",
         initials: "WIP",
@@ -111,8 +110,7 @@ const jobs = [
         batch: "Not Specified",
         url: "https://go.acciyojob.com/69RCGf",
         summary: "Hevo Data is hiring Associate Software Developers for freshers across India. Candidates with any degree can apply for this opportunity with a package of ₹6–8 LPA. The application deadline is 7 November 2026."
-    }
-]
+    },
   {
     company: "Capgemini",
     initials: "CAP",
