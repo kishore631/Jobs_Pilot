@@ -7,6 +7,112 @@
  */
 
 const jobs = [
+  [
+    {
+        company: "Wipro",
+        initials: "WIP",
+        role: "Network Engineer",
+        category: "Full-time",
+        location: "Pune",
+        degree: "Bachelor's / Master's Degree",
+        experience: "1–5 Years",
+        salary: "4.5–6.5 LPA",
+        batch: "Not Specified",
+        url: "https://www.naukri.com/job-listings-network-engineer-wipro-pune-1-to-5-years-071026028230",
+        summary: "Wipro is hiring Network Engineers for its Pune location. Candidates with 1–5 years of experience and a Bachelor's or Master's degree can apply. The offered package is ₹4.5–6.5 LPA."
+    },
+    {
+        company: "Visa",
+        initials: "VIS",
+        role: "Intern",
+        category: "Internship",
+        location: "Bengaluru",
+        degree: "Bachelor's Degree",
+        experience: "Freshers",
+        salary: "Not Disclosed",
+        batch: "Not Specified",
+        url: "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/Intern_REF084196W",
+        summary: "Visa is hiring Interns for its Bengaluru location. Freshers with a Bachelor's degree can apply for this internship opportunity. The work arrangement is hybrid, and the stipend has not been disclosed."
+    },
+    {
+        company: "Cin7",
+        initials: "CIN",
+        role: "Junior Software Engineer",
+        category: "Full-time",
+        location: "Ahmedabad (Hybrid)",
+        degree: "Bachelor's / Master's Degree",
+        experience: "Freshers / 0–1 Year",
+        salary: "4–5 LPA",
+        batch: "Not Specified",
+        url: "https://jobs.lever.co/cin7/c896656f-9a8b-4263-add3-553226c73df4/apply?source=LinkedIn",
+        summary: "Cin7 is hiring Junior Software Engineers for its Ahmedabad hybrid location. Freshers and candidates with up to 1 year of experience holding a Bachelor's or Master's degree can apply. The package is ₹4–5 LPA."
+    },
+    {
+        company: "Karya",
+        initials: "KAR",
+        role: "Research Engineering Intern, AI Evaluations",
+        category: "Internship",
+        location: "Bengaluru",
+        degree: "Bachelor's / Master's Degree",
+        experience: "Freshers",
+        salary: "5–6 LPA",
+        batch: "Not Specified",
+        url: "http://job-boards.greenhouse.io/karya/jobs/5469564008",
+        summary: "Karya is hiring Research Engineering Interns for AI Evaluations in Bengaluru. Freshers with a Bachelor's or Master's degree can apply. This opportunity focuses on AI evaluations and research engineering."
+    },
+    {
+        company: "Altera Digital Health",
+        initials: "ALT",
+        role: "Associate Technical Support Consultant",
+        category: "Full-time",
+        location: "Remote (India)",
+        degree: "Bachelor's Degree (CS, IT, Computer Engineering, Electronics or Related Fields)",
+        experience: "Freshers / 0–1 Year",
+        salary: "Not Disclosed",
+        batch: "Not Specified",
+        url: "https://harriscomputer.wd3.myworkdayjobs.com/en-US/Altera",
+        summary: "Altera Digital Health (Harris Computer) is hiring Associate Technical Support Consultants for a remote opportunity in India. Freshers and candidates with 0–1 year of experience can apply. Knowledge of Windows operating systems, networking fundamentals, SQL, databases, and technical troubleshooting is preferred."
+    },
+    {
+        company: "Dignitas Digital",
+        initials: "DIG",
+        role: "AI Engineer",
+        category: "Internship",
+        location: "New Delhi",
+        degree: "Bachelor's / Master's Degree in Computer Science or Related Fields",
+        experience: "Freshers / Interns",
+        salary: "Not Disclosed",
+        batch: "Not Specified",
+        url: "https://www.dignitasdigital.com/careers/employees/",
+        summary: "Dignitas Digital is hiring AI Engineers for an internship opportunity in New Delhi. Freshers with a Bachelor's or Master's degree in Computer Science or related fields can apply. Knowledge of Python, AI/ML, TensorFlow, NLP, deep learning, REST APIs, and cloud platforms is beneficial."
+    },
+    {
+        company: "Barclays",
+        initials: "BAR",
+        role: "Software Engineer",
+        category: "Full-time",
+        location: "Pune",
+        degree: "Relevant Bachelor's / Master's Degree",
+        experience: "As per Role Requirements",
+        salary: "Not Disclosed",
+        batch: "Not Specified",
+        url: "https://search.jobs.barclays/job/pune/software-engineer/13015/95536470528",
+        summary: "Barclays is hiring Software Engineers for its Pune location. Candidates with relevant Bachelor's or Master's degrees and skills in Core Java, J2EE, Spring Boot, Microservices, REST APIs, JavaScript, and front-end technologies can apply."
+    },
+    {
+        company: "Hevo Data",
+        initials: "HEV",
+        role: "Associate Software Developer",
+        category: "Full-time",
+        location: "Across India",
+        degree: "Any Degree",
+        experience: "Freshers",
+        salary: "6–8 LPA",
+        batch: "Not Specified",
+        url: "https://go.acciyojob.com/69RCGf",
+        summary: "Hevo Data is hiring Associate Software Developers for freshers across India. Candidates with any degree can apply for this opportunity with a package of ₹6–8 LPA. The application deadline is 7 November 2026."
+    }
+]
   {
     company: "Capgemini",
     initials: "CAP",
